@@ -1,4 +1,4 @@
-<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/281d47ae-64b0-42e8-854a-956d07c669c5" /># Milton Pinzone
+# Milton Pinzone
 
 ## AI Automation & Software Developer
 
