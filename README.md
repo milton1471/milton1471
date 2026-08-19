@@ -1,4 +1,4 @@
-# Milton Pinzone
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/281d47ae-64b0-42e8-854a-956d07c669c5" /># Milton Pinzone
 
 ## AI Automation & Software Developer
 
@@ -35,5 +35,5 @@ Digital House - Professional Developer
 1568-hour software development program, completed October 2023.
 
 ### Links
-- LinkedIn: https://www.linkedin.com/in/milton1471/
+- LinkedIn: https://www.linkedin.com/in/miltonpinzone/
 - GitHub: https://github.com/milton1471
