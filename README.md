@@ -15,10 +15,10 @@ My focus is applied AI, workflow automation, system integrations, and full-stack
 
 ### Selected Projects
 
-#### AI Sales Automation Systems
+#### [AI Sales Automation Systems](https://github.com/milton1471/ai-sales-automation-case-study)
 Private/client work for two automotive businesses. Systems connecting Meta Ads, WhatsApp, AI agents, n8n, Supabase, dashboards, and commercial notifications. Source code and business data are private.
 
-#### Intelligent Appointment Scheduling
+#### [Intelligent Appointment Scheduling](https://github.com/milton1471/intelligent-scheduling-case-study)
 Reusable scheduling system currently in advanced development. Includes deterministic business rules, Google Calendar integration, Supabase/PostgreSQL data, idempotency, and automated testing.
 
 #### LD Importaciones
